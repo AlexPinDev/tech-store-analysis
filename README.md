@@ -35,10 +35,9 @@ La empresa presentaba una **brecha de sostenibilidad**: solo el 40% de las sucur
 
 ## 📂 Evidencia Técnica
 * [Ver Informe de Análisis Completo (PDF)](https://github.com/AlexPinDev/tech-store-analysis/blob/cf4864634b17b769cfdbdec13889721a4959fba8/An%C3%A1lisis%20de%20Ventas%20Tech%20Store_%20Informe.pdf)
-* [Ver Diagnóstico de Insights Organizacionales (PDF)](./Diagnóstico_y_Comunicación_de_Insights_Organizacionales_-_Tienda_Tech.pdf)
-* [Reporte_PBI](./Reporte_ventas_tienda_tech.pbix)
-* [Dataset_de_ventas_en_Excel](./Ventas_tienda_tech_Chile.xlsx)
-
+* [Ver Diagnóstico de Insights Organizacionales (PDF)](https://github.com/AlexPinDev/tech-store-analysis/blob/01ab65dc3365acbff3108322555c5baa95286ef1/Diagn%C3%B3stico%20y%20Comunicaci%C3%B3n%20de%20Insights%20Organizacionales%20-%20Tienda%20Tech.pdf)
+* [Reporte_PBI](https://github.com/AlexPinDev/tech-store-analysis/blob/01ab65dc3365acbff3108322555c5baa95286ef1/Reporte_ventas_tienda_tech.pbix)
+* [Dataset_de_ventas_en_Excel](https://github.com/AlexPinDev/tech-store-analysis/blob/01ab65dc3365acbff3108322555c5baa95286ef1/Ventas_tienda_tech_Chile.xlsx)
 ---
 
 ## 👤 Contacto
